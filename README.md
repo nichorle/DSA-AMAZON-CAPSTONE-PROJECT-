@@ -88,7 +88,7 @@ https://github.com/nichorle/DSA-AMAZON-CAPSTONE-PROJECT-/commit/a0e5385ffa047d09
 
 Hotelier | Data Analyst | Enterprenuer| 
 
-I am Passionate about Statistics and exploring Data for intelligent and actionable decision making.
+**I am an Entreprenuer who has build a thriving hospitality business and also who has find herself in the data world as a Data Analyst.**
 
 
 ## Contact
