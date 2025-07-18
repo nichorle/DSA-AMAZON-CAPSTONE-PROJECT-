@@ -62,3 +62,8 @@ Analysis Tools Used: Microsoft Excel (Pivot Tables, Charts, Conditional Formatti
 |14| Top 5 products by combined review count and rating| Pivot, Sum of rating, Count of reviews.
 
 ## Analysed File
+
+https://github.com/nichorle/DSA-AMAZON-CAPSTONE-PROJECT-/commit/29a36b5be123346919d9f10df91c610f2167e0f0
+
+## Visual Dashboard
+
