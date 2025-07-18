@@ -66,6 +66,34 @@ Analysis Tools Used: Microsoft Excel (Pivot Tables, Charts, Conditional Formatti
 https://github.com/nichorle/DSA-AMAZON-CAPSTONE-PROJECT-/commit/29a36b5be123346919d9f10df91c610f2167e0f0
 
 ## Visual Dashboard
-<img width="959" alt="AMAZON NORMALIZED DATA" src="https://github.com/nichorle/DSA-AMAZON-CAPSTONE-PROJECT-/commit/a0e5385ffa047d0924a5c4f6e99915cf29d30bf5
+
+https://github.com/nichorle/DSA-AMAZON-CAPSTONE-PROJECT-/commit/a0e5385ffa047d0924a5c4f6e99915cf29d30bf5
+
+# Tools Used
+-*Microsoft Excel*
+
+    -Power Query Editor
+    
+    -Pivot Table
+    
+    -Data Visualization tool: Line, Pie, Bar, Donut Charts)
+    
+    -Conditional Formating
+    
+    -Table references
 
 
+## About me
+*OWOLABI Atinuke Oluwatoyin*
+
+Hotelier | Data Analyst | Enterprenuer| 
+
+I am Passionate about Statistics and exploring Data for intelligent and actionable decision making.
+
+
+## Contact
+*-Email: atinuke.sam@gmail.com*
+
+*-Phone Number: ‪+2348035656038‬*
+
+**Linkedin: https://www.linkedin.com/in/atinuke-owolabi 
