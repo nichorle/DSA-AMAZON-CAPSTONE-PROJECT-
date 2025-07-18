@@ -61,4 +61,4 @@ Analysis Tools Used: Microsoft Excel (Pivot Tables, Charts, Conditional Formatti
 |13| Categories with highest average discount?|	Sorted Pivot Table by Discount%
 |14| Top 5 products by combined review count and rating| Pivot, Sum of rating, Count of reviews.
 
-
+## Analysed File
