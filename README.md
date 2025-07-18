@@ -66,6 +66,6 @@ Analysis Tools Used: Microsoft Excel (Pivot Tables, Charts, Conditional Formatti
 https://github.com/nichorle/DSA-AMAZON-CAPSTONE-PROJECT-/commit/29a36b5be123346919d9f10df91c610f2167e0f0
 
 ## Visual Dashboard
-https://github.com/nichorle/DSA-AMAZON-CAPSTONE-PROJECT-/commit/a0e5385ffa047d0924a5c4f6e99915cf29d30bf5
+<img width="959" alt="AMAZON NORMALIZED DATA" src="https://github.com/nichorle/DSA-AMAZON-CAPSTONE-PROJECT-/commit/a0e5385ffa047d0924a5c4f6e99915cf29d30bf5
 
 
